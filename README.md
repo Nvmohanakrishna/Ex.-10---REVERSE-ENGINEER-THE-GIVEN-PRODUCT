@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![WhatsApp Image 2024-12-28 at 11 38 53_e615ea86](https://github.com/user-attachments/assets/5438ea23-c4c4-4bbd-9a21-ad5e081a5a30)
 
 
-### Name:
-### Register Number:
+### Name:n v mohana krishna
+### Register Number:24000587
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
