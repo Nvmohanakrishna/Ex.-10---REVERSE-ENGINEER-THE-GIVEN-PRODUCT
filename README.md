@@ -33,7 +33,10 @@
 ## Input:
 
 ### Output:
-![WhatsApp Image 2024-12-28 at 11 38 53_e615ea86](https://github.com/user-attachments/assets/5438ea23-c4c4-4bbd-9a21-ad5e081a5a30)
+
+![WhatsApp Image 2024-12-29 at 01 48 42_58e4b93e](https://github.com/user-attachments/assets/60bb5c73-68ca-4771-8fa5-463a97f0efd6)
+
+![WhatsApp Image 2024-12-29 at 01 48 48_44257ff9](https://github.com/user-attachments/assets/38088e6d-8eea-4e2e-8e90-a519e754e916)
 
 
 ### Name:n v mohana krishna
